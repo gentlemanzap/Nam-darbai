@@ -1,0 +1,7 @@
+environmental_raw.txt
+environmental_clean.csv
+06_homework.ipynb
+__pycache__/
+*.pyc
+.venv/
+venv/
